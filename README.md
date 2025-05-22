@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andriancabisada0227
-- 👀 I’m interested in Backend Developer, DevOps and Data Engineering
+- 👀 I’m interested in Backend Development, DevOps and Data Engineering
 - 🌱 I’m currently learning DevOps and Data Engineering
 - 💞️ I’m looking to collaborate anything related to programming
 - 📫 How to reach me cabisadaandrian@gmail.com
