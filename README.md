@@ -6,7 +6,7 @@ Backend Developer | AWS Practitioner | Mountain Biking Enthusiast
 
 ## 🚀 About Me
 
-I'm a passionate backend developer skilled in designing scalable APIs, working with various databases, and deploying cloud-native applications. I thrive on solving complex problems and optimizing systems for performance and reliability.
+I'm a heavy backend developer skilled in designing scalable APIs, working with various databases, and deploying cloud-native applications. I thrive on solving complex problems and optimizing systems for performance and reliability.
 
 ---
 
