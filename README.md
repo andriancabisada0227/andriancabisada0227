@@ -47,10 +47,4 @@ I'm a heavy backend developer skilled in designing scalable APIs, working with v
 
 ---
 
-## 🚴 Personal Touch
-
-Currently into mountain biking—always pushing the limits, whether it's on the trail or in code!
-
----
-
 > https://tebbets.netlify.app
