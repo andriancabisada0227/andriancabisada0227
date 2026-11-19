@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrian Cabisada!
 
-Backend Developer | AWS Practitioner | Mountain Biking Enthusiast
+Backend Developer | AWS Practitioner
 
 ---
 
@@ -53,4 +53,4 @@ Currently into mountain biking—always pushing the limits, whether it's on the 
 
 ---
 
-> "Keep learning, keep pedaling, keep building."
+> https://tebbets.netlify.app
