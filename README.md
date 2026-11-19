@@ -47,4 +47,6 @@ I'm a heavy backend developer skilled in designing scalable APIs, working with v
 
 ---
 
+## ❤️ Owner
+
 > https://tebbets.netlify.app
