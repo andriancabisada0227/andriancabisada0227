@@ -49,4 +49,4 @@ I'm a heavy backend developer skilled in designing scalable APIs, working with v
 
 ## ❤️ Owner
 
-> [https://tebbets.netlify.app](https://tebbets.157.230.148.34.sslip.io/)
+> (https://tebbets.157.230.148.34.sslip.io/)
