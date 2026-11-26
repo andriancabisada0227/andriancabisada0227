@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrian Cabisada!
 
-Backend Developer | AWS Practitioner
+Full Stack Developer | DevOps
 
 ---
 
