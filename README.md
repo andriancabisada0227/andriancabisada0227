@@ -13,7 +13,7 @@ I'm a full stack developer skilled in designing scalable APIs, working with vari
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
-  Node.js, NestJS, C# (ASP.NET Core), Python (Flask, FastAPI)
+  Node.js, NestJS, C# (ASP.NET Core), GoLang
 
 - **Databases:**  
   MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, DynamoDB
